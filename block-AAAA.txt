@@ -1,0 +1,8 @@
+(\.|^)netflix\.com$;querytype=AAAA
+(\.|^)netflix\.net$;querytype=AAAA
+(\.|^)nflxvideo\.net$;querytype=AAAA
+(\.|^)nflximg\.net$;querytype=AAAA
+(\.|^)nflximg\.com$;querytype=AAAA
+(\.|^)nflxext\.com$;querytype=AAAA
+(\.|^)nflxsearch\.net$;querytype=AAAA
+(\.|^)nflxso\.net$;querytype=AAAA
